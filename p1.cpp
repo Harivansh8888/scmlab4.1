@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	cout<<"It is Raining Outside"<<endl;
+	cout<<"RAIN HAS STOPPED"<<endl;//changed the printing message//
 }
 
